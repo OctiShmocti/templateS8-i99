@@ -1,7 +1,9 @@
+{
 "scientists": {
     "name": "scientists.png",
     "x": -18568,
     "y": -3333,
     "width": 128,
     "height": 128
+}
 }
